@@ -23,8 +23,9 @@ description: Conducting experiments to reserach and build awesome software
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Contact: "contact"
+  Home: "http://www.seanlabs.com"
+  Projects: "projects"
+  About: "about"
 
 
 
