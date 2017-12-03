@@ -17,14 +17,14 @@ baseurl: ""
 title: Sean Labs
 
 # Short description of your site
-description: Making painful problems disappear with software
+description: Helping You Speed Up Product Research and Make Money Selling Products on Amazon FBA
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   Home: "http://www.seanlabs.com"
-  Projects: "projects"
+  Tools: "tools"
   About: "about"
 
 
